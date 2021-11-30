@@ -65,23 +65,24 @@ main {
   padding: 40px 0 5px;
 }
 
-._title {
+/* title */
+h2 {
   font-size: 27px;
   font-weight: 600;
   color: #3c4043;
   padding-bottom: 25px;
   margin: 0;
 }
-
-._title-tag {
+/* title tag */
+h3 {
   font-size: 18px;
   font-weight: 600;
   color: #3c4043;
   padding-bottom: 25px;
   margin: 0;
 }
-
-._paragraph {
+/* paragraph */
+p {
   font-size: 16px;
   font-weight: 400;
   color: #3c4043;
@@ -89,3 +90,16 @@ main {
   padding-bottom: 35px;
   margin: 0;
 }
+
+ol {
+  padding: 0;
+  margin-left: 16px;
+  margin-bottom: 0;
+  font-size: 16px;
+}
+ol li{
+  line-height: 26px;
+  padding-left: 16px;
+  padding-top: 12px;
+}
+
