@@ -61,9 +61,6 @@ main {
   padding: 60px 0;
 }
 
-._faq-container {
-  padding: 40px 0 5px;
-}
 
 /* title */
 h2 {
@@ -71,6 +68,7 @@ h2 {
   font-weight: 600;
   color: #3c4043;
   padding-bottom: 25px;
+  padding-top: 40px;
   margin: 0;
 }
 /* title tag */
@@ -87,7 +85,7 @@ p {
   font-weight: 400;
   color: #3c4043;
   line-height: 26px;
-  padding-bottom: 35px;
+  padding-bottom: 40px;
   margin: 0;
 }
 
