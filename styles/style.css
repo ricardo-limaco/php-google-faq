@@ -1,0 +1,91 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  color: #3367d6;
+}
+
+
+/**********************************************/
+/* Header */
+header{
+  border-bottom: 1px solid #cbcbcb;
+  padding-left: 15px;
+}
+
+
+a.logo-page {
+  color: #5f6368;
+  padding: 20px 0;
+}
+.logo-page img{
+  width: 80px;
+  vertical-align: middle;
+}
+.logo-page .privacy{
+  font-size: 24px;
+  font-weight: 500;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 22px;
+}
+
+._nav li{
+  display: inline-block;
+  padding-right: 35px;
+}
+._nav li a{
+  font-size: 17px;
+  color: #5f6368;
+  font-weight: 600;
+  padding-bottom: 6px;
+}
+._nav li a._active {
+  color: #3367d6;
+  border-bottom: 4px solid #3367d6;
+}
+
+
+/**********************************************/
+/* Main */
+main {
+  padding: 60px 0;
+}
+
+._faq-container {
+  padding: 40px 0 5px;
+}
+
+._title {
+  font-size: 27px;
+  font-weight: 600;
+  color: #3c4043;
+  padding-bottom: 25px;
+  margin: 0;
+}
+
+._title-tag {
+  font-size: 18px;
+  font-weight: 600;
+  color: #3c4043;
+  padding-bottom: 25px;
+  margin: 0;
+}
+
+._paragraph {
+  font-size: 16px;
+  font-weight: 400;
+  color: #3c4043;
+  line-height: 26px;
+  padding-bottom: 35px;
+  margin: 0;
+}
